@@ -1,7 +1,7 @@
 version=1
 id=2849866277
 title=True Actions (41.73 Patch)
-description=Patches in support to [url=https://steamcommunity.com/workshop/filedetails/?id=2487022075]True Actions 1.08[/url] to support the new Victorian Furniture that was added in 41.73.  There is no functional coding in this mod, it simply adds definitions to the True Actions mod so that their animation systems understand where the new furniture is located and how to interact with it.
+description=Patches in support to [url=https://steamcommunity.com/workshop/filedetails/?id=2487022075]True Actions 1.08[/url] for the new Victorian Furniture that was added in 41.73.  There is no functional coding in this mod, it simply adds definitions to the True Actions mod so that their animation systems understand where the new furniture is located and how to interact with it.
 description=
 description=Requires True Actions to be installed and must be loaded AFTER TrueActions
 description=[code]Mods=TMC_TrueActions;TrueActionsPatch4173;[/code]
