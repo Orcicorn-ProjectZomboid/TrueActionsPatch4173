@@ -1,0 +1,16 @@
+version=1
+id=2849866277
+title=True Actions (41.73 Patch)
+description=Patches in support to [url=https://steamcommunity.com/workshop/filedetails/?id=2487022075]True Actions 1.08[/url] to support the new Victorian Furniture that was added in 41.73.  There is no functional coding in this mod, it simply adds definitions to the True Actions mod so that their animation systems understand where the new furniture is located and how to interact with it.
+description=
+description=Requires True Actions to be installed and must be loaded AFTER TrueActions
+description=[code]Mods=TMC_TrueActions;TrueActionsPatch4173;[/code]
+description=
+description=[h1]Like what I'm doing?[/h1]
+description=[img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/like_favorite.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/kofi.png[/img][/url]
+description=
+description=[h1]Check out some of my other mods[/h1]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_glass.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2790428261][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_flooring.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2810378872][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_cabinets.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2789503316][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_paint.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828742547][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_kevorkian.png[/img][/url] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831453493][img]https://raw.githubusercontent.com/Orcicorn-ProjectZomboid/.github/master/images/preview_stapler.png[/img][/url]
+description=
+tags=Build 41;Multiplayer;Realistic
+visibility=Public
